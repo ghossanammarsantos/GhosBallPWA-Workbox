@@ -1,0 +1,2 @@
+Firebase Hosting : https://football-pwa-ghossan.web.app 
+Github Pages     : https://ghossanammarsantos.github.io/GhosBallPWA-Workbox/
