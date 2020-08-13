@@ -1,0 +1,24 @@
+{
+  "name": "GhosBall PWA",
+  "short_name": "ghosball-v2-pwa",
+  "description": "Submission 3",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#2962ff",
+  "theme_color": "#2962ff",
+  "icons": [
+    {
+      "src": "/img/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "gcm_sender_id": "342981349235"
+}
